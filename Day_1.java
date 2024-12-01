@@ -58,6 +58,7 @@ public class Day_1 {
                 hashMapTwo.put(second, 1);
             }
         }
+        sc.close();
         
         int totalSimilarity = 0;
         for (int i = 0; i < listOne.size(); i++) {
